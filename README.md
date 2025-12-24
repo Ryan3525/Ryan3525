@@ -1,21 +1,21 @@
 <!-- Banner estiloso (personalize as cores/texto se quiser) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=200&section=header&text=Olá%2C%20sou%20o%20Ryan!&fontSize=40&fontColor=ffffff)
 
-<h1 align="center">👋 Olá, eu sou o Ryan da Cruz</h1>
-<p align="center">Estudante e entusiasta de Dados 🤓 | Python | MongoDB | IA</p>
+<h1 align="center">👋 Hi! I am Ryam</h1>
+<p align="center">Estudante e entusiasta de Dados  | Python | SQL | IA | Javascript</p>
 
 ---
 
-### 📚 Sobre mim
-- 🔍 Foco em **análise de dados**, integração de bancos e explicabilidade de modelos
-- 🧠 Curto transformar dados em insights
-- 🤝 Sempre aberto para colaborções e aprendizado contínuo
+###  Sobre mim
+-  Foco em **análise de dados**, integração de bancos e explicabilidade de modelos
+- Curto transformar dados em insights poderosos
+- Sempre aberto para colaborções e aprendizado contínuo!
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mongodb,jupyter,git,github,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,postman" />
 </p>
 
 ---
@@ -27,7 +27,6 @@
 ✔️ **dados_com_Python** – manipulação e análise com Python  
 ✔️ **sabor_express_python** – projeto Python focado em lógica e dados  
 ✔️ **otimazacao_com_algoritmos_IA** – uso de algoritmos de IA em otimização  
-*(fixe 3–6 repositórios nos seus Pins do GitHub para aparecerem no topo)*
 
 ---
 
@@ -38,7 +37,7 @@
 
 ---
 
-### 📫 Onde me encontrar
+### Onde me encontrar?
 <p align="center">
   <a href="https://www.linkedin.com/in/ryandacruz">LinkedIn</a> • 
   <a href="https://www.instagram.com/ryan_cruz35">Instagram</a>
@@ -46,4 +45,4 @@
 
 ---
 
-✨ **Vamos construir coisas incríveis juntos!**
+ **Vamos aprender e construir coisas incríveis juntos!**
