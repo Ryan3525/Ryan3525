@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:A020F0,100:6A0DAD&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff)
 
 <h1 align="center">👋 Hi! I'm Ryan</h1>
-<p align="center">Data Enthusiast | Python | SQL | AI | JavaScript</p>
+<p align="center"> Python | SQL | AI | JavaScript</p>
 
 ---
 
