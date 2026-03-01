@@ -14,7 +14,7 @@
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
 </p>
 
 ---
