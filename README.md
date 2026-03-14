@@ -19,7 +19,7 @@
 ---
 
 ###  Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,github,vscode&theme=dark" />
 </p>
 
