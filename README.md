@@ -5,8 +5,8 @@
 <h2 align="center">Python & SQL Developer | Data Engineering & Analytics</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data_Analysis-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-SQL_%26_Python-white?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data_Analysis-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL_%26_Python-white?style=for-the-badge&logoColor=black" />
 </p>
 
 ---
