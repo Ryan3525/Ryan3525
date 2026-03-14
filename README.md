@@ -1,49 +1,57 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:A020F0,100:6A0DAD&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff)
-
-<h1 align="center">👋 Hi! I'm Ryan</h1>
-<p align="center"> Python | SQL | AI | JavaScript</p>
-
----
-
-### About Me
-- Focused on **data analysis**, database integration, and model explainability  
-- I enjoy turning data into **powerful insights**  
-- Always open to collaboration and continuous learning  
-
----
-
-### 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=180&section=header&text=RYAN%20CRUZ&fontSize=70&fontColor=ffffff" />
+</p>
+
+<h2 align="center">Python & SQL Developer | Data Engineering & Analytics</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data_Analysis-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-SQL_%26_Python-white?style=for-the-badge&logoColor=black" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-✔️ **analise_Dados_MongoDB** – Data analysis using Python and MongoDB  
-✔️ **Integracoes_com_NoSQL** – Integration between NoSQL tools  
-✔️ **explicabilidade_modelo_credito** – Credit model explainability (LIME)  
-✔️ **dados_com_Python** – Data manipulation and analysis with Python  
-✔️ **sabor_express_python** – Python project focused on logic and data  
-✔️ **otimizacao_com_algoritmos_IA** – Optimization using AI algorithms  
+### ⚡ Quick Overview
+- **Current Focus:** Optimizing data pipelines and database architecture.
+- **Expertise:** ETL processes with Python and advanced SQL querying.
+- **Education:** Constant evolution in Data Engineering and Cloud systems.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blueviolet" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Engineering-purple" />
-  <img src="https://img.shields.io/badge/AI-Optimization-8A2BE2" />
-  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-success" />
+###  Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postgres,mongodb,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ryandacruz">LinkedIn</a> • 
-  <a href="https://www.instagram.com/ryan_cruz35">Instagram</a>
+###  Project Roadmap (Linear Progress)
+Aqui estão meus principais projetos organizados por complexidade e evolução técnica:
+
+| Stage | Project | Focus | Tech |
+| :--- | :--- | :--- | :--- |
+| **01** | `sabor_express_python` | Fundamentals & Logic | `Python` |
+| **02** | `analise_Dados_MongoDB` | NoSQL Integration | `Python` `MongoDB` |
+| **03** | `explicabilidade_modelo` | Model Transparency (LIME) | `AI` `Python` |
+| **04** | `otimizacao_IA` | Algorithm Optimization | `Python` `AI` |
+| **05** | `Data_Engineering_SQL` | Advanced Queries & Modeling | `SQL` |
+
+---
+
+###  GitHub Stats
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ryandacruz&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandacruz&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
 </p>
 
 ---
 
-🚀  **Let’s learn and build amazing things together!**
+###  Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ryandacruz"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ryan_cruz35"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="right">
+  <i>"Data is the new oil, but SQL is the refinery."</i>
+</p>
