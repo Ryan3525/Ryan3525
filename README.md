@@ -20,7 +20,7 @@
 
 ###  Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postgres,mongodb,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -38,13 +38,7 @@ Aqui estão meus principais projetos organizados por complexidade e evolução t
 
 ---
 
-###  GitHub Stats
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ryandacruz&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryandacruz&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
-</p>
 
----
 
 ###  Connect with Me
 <p align="left">
@@ -52,6 +46,4 @@ Aqui estão meus principais projetos organizados por complexidade e evolução t
   <a href="https://www.instagram.com/ryan_cruz35"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<p align="right">
-  <i>"Data is the new oil, but SQL is the refinery."</i>
 </p>
